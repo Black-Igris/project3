@@ -1,0 +1,17 @@
+.nav ul {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.8rem;
+}
+
+.nav ul li {
+  padding-left: 1rem;
+}
+
+.logo {
+  color: var(--strong-color);
+}
+
+.settings {
+  display: flex;
+}

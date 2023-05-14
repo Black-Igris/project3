@@ -1,0 +1,41 @@
+.slate {
+  --background-color: #f8fafc;
+  --active-color: #0f172a;
+  --passive-color: #64748b;
+  --positive-color: #4338ca;
+  --negative-color: #f97316;
+  --strong-color: #ef4444;
+}
+
+.eva {
+  --background-color: #322346;
+  --active-color: #fafafa;
+  --passive-color: #b18bcf;
+  --positive-color: #adf182;
+  --negative-color: #ff876c;
+  --strong-color: #c7fba5;
+}
+
+
+.contrast {
+  --background-color: #fff;
+  --active-color: #222;
+  --passive-color: #555;
+  --positive-color: #007a09;
+  --negative-color: #d10000;
+  --strong-color: #000;
+}
+
+.cyberpunk {
+  --background-color: #F3E600;
+  --active-color: #000;
+  --passive-color: #554B41;
+  --positive-color: #04DAF6;
+  --negative-color: #FF003C;
+  --strong-color: #000;
+}
+
+.mainBody {
+  background-color: var(--background-color);
+  color: var(--active-color);
+}
